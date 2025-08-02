@@ -1,0 +1,18 @@
+<?xml version='1.1' encoding='utf-8'?>
+<widget id="com.example.saad" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Saad parc</name>
+    <description>Sample Apache Cordova App</description>
+    <author email="yahiadeveloper5106@gmail.com" href="https://erire-the-cyller-the-horror-game.ar.uptodown.com/windows/download">
+        Yahia developer
+    </author>
+    <content src="index.html" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <platform name="android">
+	<icon src="icon.png" />
+    </platform>
+<preference name="AndroidWindowSplashScreenAnimatedIcon" value="www/splash.png" />
+<preference name="AndroidWindowSplashScreenBackground" value="#000000" />
+<preference name="AndroidWindowSplashScreenDuration" value="3000" />
+
+</widget>
